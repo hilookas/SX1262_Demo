@@ -1,0 +1,3 @@
+[submodule "Drivers/LoRaMac-node"]
+	path = Drivers/LoRaMac-node
+	url = https://github.com/hilookas/LoRaMac-node
